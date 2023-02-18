@@ -1,0 +1,29 @@
+{
+  "name": "nguyen_gl_chatapp",
+  "version": "1.0.0",
+  "description": "Chat app with node, sockte and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ery205275/Nguyen_GL_ChatApp.git"
+  },
+  "keywords": [
+    "chat",
+    "socket",
+    "node",
+    "express"
+  ],
+  "author": "GIA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ery205275/Nguyen_GL_ChatApp/issues"
+  },
+  "homepage": "https://github.com/Ery205275/Nguyen_GL_ChatApp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.0"
+  }
+}
