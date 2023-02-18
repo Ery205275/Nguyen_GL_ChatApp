@@ -2,7 +2,7 @@
   "name": "nguyen_gl_chatapp",
   "version": "1.0.0",
   "description": "Chat app with node, sockte and express",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
